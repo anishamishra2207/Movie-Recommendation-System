@@ -1,0 +1,1 @@
+Demo CSVs are generated on demand by `python -m movie_recs.cli --generate-demo`. Generated data is ignored by git.
